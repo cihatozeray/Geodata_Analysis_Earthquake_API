@@ -1,0 +1,7 @@
+credentials.py
+credentials.json
+.DS_Store
+
+.vscode/
+
+__pycache__/
